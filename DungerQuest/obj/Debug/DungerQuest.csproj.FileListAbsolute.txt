@@ -1,0 +1,10 @@
+C:\Users\Vlad_Polish\source\repos\DungerQuest\DungerQuest\bin\Debug\DungerQuest.exe.config
+C:\Users\Vlad_Polish\source\repos\DungerQuest\DungerQuest\bin\Debug\DungerQuest.exe
+C:\Users\Vlad_Polish\source\repos\DungerQuest\DungerQuest\bin\Debug\DungerQuest.pdb
+C:\Users\Vlad_Polish\source\repos\DungerQuest\DungerQuest\obj\Debug\DungerQuest.csprojAssemblyReference.cache
+C:\Users\Vlad_Polish\source\repos\DungerQuest\DungerQuest\obj\Debug\DungerQuest.Properties.Resources.resources
+C:\Users\Vlad_Polish\source\repos\DungerQuest\DungerQuest\obj\Debug\DungerQuest.csproj.GenerateResource.cache
+C:\Users\Vlad_Polish\source\repos\DungerQuest\DungerQuest\obj\Debug\DungerQuest.exe
+C:\Users\Vlad_Polish\source\repos\DungerQuest\DungerQuest\obj\Debug\DungerQuest.pdb
+C:\Users\Vlad_Polish\source\repos\DungerQuest\DungerQuest\obj\Debug\DungerQuest.Menu.resources
+C:\Users\Vlad_Polish\source\repos\DungerQuest\DungerQuest\obj\Debug\DungerQuest.New_Game.resources
