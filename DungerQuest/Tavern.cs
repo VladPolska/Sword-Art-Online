@@ -32,7 +32,9 @@ namespace DungerQuest
             {
                 label2.Hide();
                 Z_h = Z_h + 1;
+                gold_h = gold_h - 10;
             }
+            label3.Text = "Ваше золото: " + gold_h;
         }
 
         string dia_1, Name;
@@ -40,6 +42,7 @@ namespace DungerQuest
         {
             InitializeComponent();
             label2.Hide();
+            label3.Text = "Ваше золото: " + gold_h;
             att = att_o;
             prot = prot_o;
             atl = atl_o;

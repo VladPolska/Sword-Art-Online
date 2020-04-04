@@ -69,6 +69,7 @@ namespace DungerQuest
                 label6.Text = "Здоровья: " + hp_h + "/" + hpMax_h;
                 label7.Text = "Атака: " + att;
                 label8.Text = "Защита: " + prot;
+                label9.Text = "Ловкость: " + atl;
                 if (hp_E <= 0)
                 {
                     exp_h = exp_h + 1;
@@ -200,6 +201,7 @@ namespace DungerQuest
                 label6.Text = "Здоровья: " + hp_h + "/" + hpMax_h;
                 label7.Text = "Атака: " + att;
                 label8.Text = "Защита: " + prot;
+                label9.Text = "Ловкость: " + atl;
                 if (hp_E <= 0)
                 {
                     exp_h = exp_h + 1;
@@ -333,6 +335,7 @@ namespace DungerQuest
                 label6.Text = "Здоровья: " + hp_h + "/" + hpMax_h;
                 label7.Text = "Атака: " + att;
                 label8.Text = "Защита: " + prot;
+                label9.Text = "Ловкость: " + atl;
                 if (hp_E <= 0)
                 {
                     exp_h = exp_h + 1;
@@ -468,6 +471,7 @@ namespace DungerQuest
                 label6.Text = "Здоровья: " + hp_h + "/" + hpMax_h;
                 label7.Text = "Атака: " + att;
                 label8.Text = "Защита: " + prot;
+                label9.Text = "Ловкость: " + atl;
                 if (hp_E <= 0)
                 {
                     exp_h = exp_h + 1;
@@ -601,6 +605,7 @@ namespace DungerQuest
                 label6.Text = "Здоровья: " + hp_h + "/" + hpMax_h;
                 label7.Text = "Атака: " + att;
                 label8.Text = "Защита: " + prot;
+                label9.Text = "Ловкость: " + atl;
                 if (hp_E <= 0)
                 {
                     exp_h = exp_h + 1;
@@ -735,6 +740,7 @@ namespace DungerQuest
                 label6.Text = "Здоровья: " + hp_h + "/" + hpMax_h;
                 label7.Text = "Атака: " + att;
                 label8.Text = "Защита: " + prot;
+                label9.Text = "Ловкость: " + atl;
                 if (hp_E <= 0)
                 {
                     exp_h = exp_h + 1;
@@ -869,6 +875,7 @@ namespace DungerQuest
                 label6.Text = "Здоровья: " + hp_h + "/" + hpMax_h;
                 label7.Text = "Атака: " + att;
                 label8.Text = "Защита: " + prot;
+                label9.Text = "Ловкость: " + atl;
                 if (hp_E <= 0)
                 {
                     exp_h = exp_h + 1;
@@ -1001,6 +1008,7 @@ namespace DungerQuest
                 label6.Text = "Здоровья: " + hp_h + "/" + hpMax_h;
                 label7.Text = "Атака: " + att;
                 label8.Text = "Защита: " + prot;
+                label9.Text = "Ловкость: " + atl;
                 if (hp_E <= 0)
                 {
                     exp_h = exp_h + 1;
@@ -1134,6 +1142,7 @@ namespace DungerQuest
                 label6.Text = "Здоровья: " + hp_h + "/" + hpMax_h;
                 label7.Text = "Атака: " + att;
                 label8.Text = "Защита: " + prot;
+                label9.Text = "Ловкость: " + atl;
                 if (hp_E <= 0)
                 {
                     exp_h = exp_h + 1;
@@ -1413,6 +1422,10 @@ namespace DungerQuest
                 button34.Hide();
                 button35.Hide();
                 button36.Hide();
+                pictureBox1.Hide();
+                pictureBox2.Hide();
+                pictureBox3.Hide();
+                pictureBox4.Show();
             }
         }
 
@@ -1471,6 +1484,7 @@ namespace DungerQuest
                 label6.Text = "Здоровья: " + hp_h + "/" + hpMax_h;
                 label7.Text = "Атака: " + att;
                 label8.Text = "Защита: " + prot;
+                label9.Text = "Ловкость: " + atl;
                 if (hp_E <= 0)
                 {
                     exp_h = exp_h + 1;
@@ -1898,6 +1912,10 @@ namespace DungerQuest
                 button34.Hide();
                 button35.Hide();
                 button36.Hide();
+                pictureBox1.Hide();
+                pictureBox2.Hide();
+                pictureBox3.Hide();
+                pictureBox4.Show();
             }
         }
 
@@ -2107,6 +2125,10 @@ namespace DungerQuest
                 button34.Hide();
                 button35.Hide();
                 button36.Hide();
+                pictureBox1.Hide();
+                pictureBox2.Hide();
+                pictureBox3.Hide();
+                pictureBox4.Show();
             }
         }
 
@@ -2292,6 +2314,10 @@ namespace DungerQuest
                 button34.Hide();
                 button35.Hide();
                 button36.Hide();
+                pictureBox1.Hide();
+                pictureBox2.Hide();
+                pictureBox3.Hide();
+                pictureBox4.Show();
             }
         }
 
@@ -2350,6 +2376,7 @@ namespace DungerQuest
                 label6.Text = "Здоровья: " + hp_h + "/" + hpMax_h;
                 label7.Text = "Атака: " + att;
                 label8.Text = "Защита: " + prot;
+                label9.Text = "Ловкость: " + atl;
                 if (hp_E <= 0)
                 {
                     exp_h = exp_h + 1;
@@ -2484,6 +2511,7 @@ namespace DungerQuest
                 label6.Text = "Здоровья: " + hp_h + "/" + hpMax_h;
                 label7.Text = "Атака: " + att;
                 label8.Text = "Защита: " + prot;
+                label9.Text = "Ловкость: " + atl;
                 if (hp_E <= 0)
                 {
                     exp_h = exp_h + 1;
@@ -2617,6 +2645,7 @@ namespace DungerQuest
                 label6.Text = "Здоровья: " + hp_h + "/" + hpMax_h;
                 label7.Text = "Атака: " + att;
                 label8.Text = "Защита: " + prot;
+                label9.Text = "Ловкость: " + atl;
                 if (hp_E <= 0)
                 {
                     exp_h = exp_h + 1;
@@ -2751,6 +2780,7 @@ namespace DungerQuest
                 label6.Text = "Здоровья: " + hp_h + "/" + hpMax_h;
                 label7.Text = "Атака: " + att;
                 label8.Text = "Защита: " + prot;
+                label9.Text = "Ловкость: " + atl;
                 if (hp_E <= 0)
                 {
                     exp_h = exp_h + 1;
@@ -2883,6 +2913,7 @@ namespace DungerQuest
                 label6.Text = "Здоровья: " + hp_h + "/" + hpMax_h;
                 label7.Text = "Атака: " + att;
                 label8.Text = "Защита: " + prot;
+                label9.Text = "Ловкость: " + atl;
                 if (hp_E <= 0)
                 {
                     exp_h = exp_h + 1;
@@ -3015,6 +3046,7 @@ namespace DungerQuest
                 label6.Text = "Здоровья: " + hp_h + "/" + hpMax_h;
                 label7.Text = "Атака: " + att;
                 label8.Text = "Защита: " + prot;
+                label9.Text = "Ловкость: " + atl;
                 if (hp_E <= 0)
                 {
                     exp_h = exp_h + 1;
@@ -3147,6 +3179,7 @@ namespace DungerQuest
                 label6.Text = "Здоровья: " + hp_h + "/" + hpMax_h;
                 label7.Text = "Атака: " + att;
                 label8.Text = "Защита: " + prot;
+                label9.Text = "Ловкость: " + atl;
                 if (hp_E <= 0)
                 {
                     int b = 1;
@@ -3967,6 +4000,7 @@ namespace DungerQuest
             button36.Hide();
             pictureBox2.Hide();
             pictureBox3.Hide();
+            pictureBox4.Hide();
             att = att_o;
             prot = prot_o;
             atl = atl_o;
