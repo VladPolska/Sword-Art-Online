@@ -8,3 +8,8 @@ C:\Users\Vlad_Polish\source\repos\DungerQuest\DungerQuest\obj\Debug\DungerQuest.
 C:\Users\Vlad_Polish\source\repos\DungerQuest\DungerQuest\obj\Debug\DungerQuest.pdb
 C:\Users\Vlad_Polish\source\repos\DungerQuest\DungerQuest\obj\Debug\DungerQuest.Menu.resources
 C:\Users\Vlad_Polish\source\repos\DungerQuest\DungerQuest\obj\Debug\DungerQuest.New_Game.resources
+C:\Users\Vlad_Polish\source\repos\DungerQuest\DungerQuest\obj\Debug\DungerQuest.Vilanger.resources
+C:\Users\Vlad_Polish\source\repos\DungerQuest\DungerQuest\obj\Debug\DungerQuest.Tavern.resources
+C:\Users\Vlad_Polish\source\repos\DungerQuest\DungerQuest\obj\Debug\DungerQuest.Dungeon.resources
+C:\Users\Vlad_Polish\source\repos\DungerQuest\DungerQuest\obj\Debug\DungerQuest.Inventory.resources
+C:\Users\Vlad_Polish\source\repos\DungerQuest\DungerQuest\obj\Debug\DungerQuest.Map.resources
